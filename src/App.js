@@ -141,5 +141,24 @@ const MainWrapper = styled.div`
   nav {
     width: 200px;
     min-width: 200px;
+    margin-right: 16px;
+
+    ul {
+      list-style: none;
+      padding: 0;
+
+      li {
+        margin: 2px 8px 0;
+
+        a {
+          display: block;
+          background-color: navy;
+          color: white;
+          text-decoration: none;
+          line-hight: 20px;
+          height: 20px;
+        }
+      }
+    }
   }
 `;

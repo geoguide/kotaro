@@ -27,6 +27,10 @@ const Button = styled(InlineButton)`
   color: #ffffff;
   padding: 2px;
   margin: 2px;
+
+  &.block {
+    display: block;
+  }
 `;
 
 export const ExternalLink = styled.a`
