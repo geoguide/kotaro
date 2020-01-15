@@ -87,8 +87,11 @@ export const getModalContent = (props) => {
           <strong>Tug of War</strong>
           <p>He loves tug of war. You might need to walk with the rope hanging to your side to get him to grab it, but then you can play tug with him. You can slide him around the ground give him little tugs etc. He&apos;s really strong, so you can play kind of hard.</p>
 
-          <strong>Easy: Fetch</strong>
+          <strong>Fetch</strong>
           <p>Once he is engaged with toys you can get him to fetch them. Throw something and say <em>fetch</em>. He will go after it and bring it back to you. If he does not bring it back, you can tell him to come back and he should. He kind of knows <em>Leave it!</em> (use in conjunction with not pulling on the toy)</p>
+
+          <strong>Running</strong>
+          <p><em>In the back yard only.</em>You can run back and forth in the yard with him on leash. If you just start to speed up to a trot he&apos;ll get excited and run with you. Be a little careful as he trips over his leash a lot</p>
         </div>
     }
   };
