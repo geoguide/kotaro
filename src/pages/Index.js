@@ -14,7 +14,7 @@ const Index = () => {
       </p>
 
       <h3>Trying to tell if he needs to pee</h3>
-      <p>If he goes towards the gate to Geo&apos;s, or grabs a leash, or starts smelling around like he is looking for something, or goes away from people: these are all signs he might need to go out. When in doubt take him him out. Going potty indoors gains momentum each time he does it.</p>
+      <p>If he goes towards the gate to Geo&apos;s, or grabs a leash, or starts smelling around like he is looking for something, or goes away from people: these are all signs he might need to go out. When in doubt take him him out. Going potty indoors gains momentum each time he does it. Sometimes if he is barking or trying to get attention he needs to go out. Sometimes he is just being bad. Not sure what to do yet.</p>
 
       <h3>General Notes</h3>
       <div>
