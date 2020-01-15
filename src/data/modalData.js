@@ -78,6 +78,9 @@ export const getModalContent = (props) => {
 
           <strong>Hard: Jump through hoop</strong>
           <p>There is a small folded hoop in the living room. You can hold it 1 inch off the ground and get him to go through it. You probably will have to start by luring him through with food.</p>
+
+          <strong>Easy: Fetch</strong>
+          <p>Once he is engaged with toys you can get him to fetch them. Throw something and say <em>fetch</em>. He will go after it and bring it back to you. If he does not bring it back, you can tell him to come back and he should. He kind of knows <em>Leave it!</em> (use in conjunction with not pulling on the toy)</p>
         </div>,
     }
   };
