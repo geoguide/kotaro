@@ -148,11 +148,16 @@ const MainWrapper = styled.div`
       padding: 0;
 
       li {
-        margin: 2px 8px 0;
+        margin: 2px 0;
+        padding: 2px 4px;
+        background-color: #0069ed;
+
+        &:hover {
+          background-color: #0053ba;
+        }
 
         a {
           display: block;
-          background-color: navy;
           color: white;
           text-decoration: none;
           line-hight: 20px;
