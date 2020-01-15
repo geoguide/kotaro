@@ -53,7 +53,7 @@ export const getModalContent = (props) => {
     },
     feeding: {
       title: 'Feeding Kota',
-      content: <div>If you can feed him by hand. He currently eats about <em>1.5 handfuls of kibble</em>. Make sure he is not jumping on you or barking for it when you give it to him, this is an easy way to train him. You can also make him do <InlineButton onClick={ () => buttonAction('tricks') }>tricks</InlineButton> for the food.</div>
+      content: <div>If you can feed him by hand. He currently eats about <em>2 handfuls of kibble</em>. Make sure he is not jumping on you or barking for it when you give it to him, this is an easy way to train him. You can also make him do <InlineButton onClick={ () => buttonAction('tricks') }>tricks</InlineButton> for the food.</div>
     },
     tricks: {
       title: 'Tricks',

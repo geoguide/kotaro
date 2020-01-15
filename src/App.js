@@ -122,10 +122,10 @@ function App() {
 
           <h4>7AM: Wake up</h4>
           <section>Get Kota up if he is sleeping (he probably will awake). Immediately bring him to <InlineButton onClick={ () => openModal('potty') }>go potty</InlineButton>.</section>
-          <section>Bring him inside, let him chew on some stuff and drink some water. Leave him in Geo room while you make coffee or whatever. Then <InlineButton onClick={ () => openModal('feeding') }>feed him</InlineButton>.</section>
+          <section>Bring him inside, let him chew on some stuff and drink some water. Leave him in Geo&apos;s while you make coffee or whatever. Then <InlineButton onClick={ () => openModal('feeding') }>feed him</InlineButton>.</section>
 
           <h4>7:30am - 10am: Play & Entertain</h4>
-          <section><InlineButton onClick={ () => openModal('tricks') }>Play Games with kota</InlineButton>. He is going to have a lot of energy, try running around outside or playing in the living room. You have to be engaged with him in the living room. If he is just going to chill, keep him in Geo room. Give him one Angel Eyes treat (to help with his eye irritation). <InlineButton onClick={ () => openModal('potty') }>Go potty.</InlineButton></section>
+          <section><InlineButton onClick={ () => openModal('tricks') }>Play Games with kota</InlineButton>. He is going to have a lot of energy, try running around outside or playing in the living room. You have to be engaged with him in the living room. If he is just going to chill, keep him in Geo&apos;s. Give him one Angel Eyes treat (to help with his eye irritation). <InlineButton onClick={ () => openModal('potty') }>Go potty.</InlineButton></section>
 
           <h4>10am - 11am: Training</h4>
           <section><InlineButton onClick={ () => openModal('training') }>Train him</InlineButton> on some of his <InlineButton onClick={ () => openModal('tricks') }>tricks</InlineButton>. Reward him with high value treats. <InlineButton onClick={ () => openModal('potty') }>Go potty</InlineButton>
@@ -148,7 +148,7 @@ function App() {
         </article>
 
         <h3>Nightime Guide</h3>
-        <p>Currently he cannot sleep on the bed. He should sleep in Geo room with a human. You will need to wake up in regular intervals and <InlineButton onClick={ () => openModal('potty') }>bring him out to pee</InlineButton> in regular intervals. Current interval is <strong>3 hours</strong>
+        <p>Currently he cannot sleep on the bed. He should sleep in Geo&apos;s with a human. You will need to wake up in regular intervals and <InlineButton onClick={ () => openModal('potty') }>bring him out to pee</InlineButton> in regular intervals. Current interval is <strong>3 hours</strong>. I recommend giving him something to chew and getting him to stay in the travel crate for at least 1 interval.
         </p>
 
         <h3>Goals of confinement and supervision</h3>
@@ -163,7 +163,7 @@ function App() {
         <p><strong>Affection</strong>: Everyone wants to cuddle him. He is soft and cute, but if he is in play or chew mode, he needs to play or chew. Forcing him to be subdued when he is in a pumped up state will just cause him to be more insane later and reinforce bad inter-human behavior. Another case of this is him jumping on you to greet you. It is adorable, but if you keep giving him attention when he jumps on your he will do that forever. When he is 60 LBS this is going to be a problem. Try to withdraw attention if he jumps, turn around and greet him again until he stops. He should sit in front of you, if you put your hand out he should touch his nose to your hand (targeting). This is all ideal and not always realistic.</p>
 
         <h3>Trying to tell if he needs to pee</h3>
-        <p>If he goes towards the gate to Geo room, or grabs a leash, or starts smelling around like he is looking for something, or goes away from people: these are all signs he might need to go out. When in doubt take him him out. Going potty indoors gains momentum each time he does it.</p>
+        <p>If he goes towards the gate to Geo&apos;s, or grabs a leash, or starts smelling around like he is looking for something, or goes away from people: these are all signs he might need to go out. When in doubt take him him out. Going potty indoors gains momentum each time he does it.</p>
 
         <h3>General Notes</h3>
         <div>
