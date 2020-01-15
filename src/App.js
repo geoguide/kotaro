@@ -175,20 +175,15 @@ function App() {
             <li>He can&apos;t be in the kitchen/living room unless you&apos; re actively playing with him. My room is okay for him to just be chilling.</li>
             <li>If he gets crazy you can crate him. Generally if you&apos;re near the crate he doesn&apos;t mind.</li>
             <li>So far giving him a bull/buffalo stick has made him to lay down and chew for an hour so maybe can be used in emergency</li>
+            <li>He generally likes being around people so if you&apos;re in the kitchen, he might just hang out on the other side of the gate, as long as he can see you he&apos;s happy.</li>
+            <li>If he&apos;s doing something you don&apos;t like you can just turn away and not give him attention because attention is what he wants. but he has an attention span of about 2 seconds so you can turn around once he stops and he&apos;ll probably try something else.</li>
+            <li>He also apparently likes the crate in my room and goes in there to hang out when I&apos;m sitting on my computer.</li>
           </ul>
         </div>
 
         <h4>Troubleshooting</h4>
         <strong>He is biting pants / feet when you walk around</strong>
         <p>Put him in a confined area (behind the fence in Geo room area for instance). Ignore him for 10 seconds. Open the gate to let him out again. If he bites pants again, repeat.</p>
-
-        <h4> Old Notes</h4>
-
-        <p>Things you can do are: say his name if he looks at you give him a treat (i have shredded chicken) he kind of knows sit, laydown and o-te (shake) give him treats if he does it. He can play fetch if he&apos;s engaged and he loves tug of war.</p>
-
-        <p>if he&apos;s doing something you don&apos;t like you can just turn away and not give him attention because attention is what he wants. but he has an attention span of about 2 seconds so you can turn around once he stops and he&apos;ll probably try something else.</p>
-
-        <p>He generally likes being around people so if you&apos;re in the kitchen, he might just hang out on the other side of the gate, as long as he can see you he&apos;s happy. He also apparently likes the crate in my room and goes in there to hang out when I&apos;m sitting on my computer.</p>
 
       </main>
     </AppContainer>
