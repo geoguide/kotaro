@@ -6,6 +6,7 @@ const Index = () => {
     <>
       <h3>Goals of confinement and supervision</h3>
       <p>The idea of confining him to an area when not actively playing is so he knows where he stays in home. Dogs do not pee in their homes, so we need to slowly get him used to the house being his home.</p>
+      <p>It is important that we crate train him because this is the best way to make sure he goes potty outdoors. If you can get him to chill in the crate for an hour or so you can take him out immediately and be sure he doesn&apos;t go inside. Everytime he goes potty indoors, it reinforces that this is a place to potty so should be avoided at all costs.</p>
 
       <h3>Trying to tell if he needs to pee</h3>
       <p>If he goes towards the gate to Geo&apos;s, or grabs a leash, or starts smelling around like he is looking for something, or goes away from people: these are all signs he might need to go out. When in doubt take him him out. Going potty indoors gains momentum each time he does it.</p>
