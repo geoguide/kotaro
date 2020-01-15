@@ -13,6 +13,7 @@ const Index = () => {
       <h3>General Notes</h3>
       <div>
         <ul>
+          <li>When you know he does not have to go potty, make sure he gets some alone time. It is important for him to be used to being alone for a while.</li>
           <li>Watch him all the time to make sure he&apos;s not eating something he&apos;s not supposed to. I caught him outside trying to eat a self-tapping screw <span role="img">🤦</span>
           </li>
           <li>He needs water fairly often. Everytime you fill it add a capful of the teeth cleaner if you remember. Watch for signs of needing to pee after he drinks water!</li>
