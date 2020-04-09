@@ -129,7 +129,7 @@ function App() {
 
 export default App;
 
-const AppContainer = =asstyled.div`
+const AppContainer = styled.div`
   width: 1200px;
   margin: 0 auto;
   padding: 8px;
