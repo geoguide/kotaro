@@ -18,7 +18,6 @@ import Behavior from 'pages/Behavior';
 import Troubleshooting from 'pages/Troubleshooting';
 import { getModalContent } from 'data/modalData';
 
-// Testing eslint func
 function App() {
 
   const [ modalIsOpen, setIsOpen ] = React.useState(false);
