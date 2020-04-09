@@ -1,6 +1,6 @@
 name: MasterDeployCI
 on:
-  merge:
+  pull_request:
     branches:
       - master
 jobs:
