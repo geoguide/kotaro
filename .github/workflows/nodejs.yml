@@ -17,7 +17,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: Install Packages
       run: npm install
-    - name: Run Cypress
-      run: npx cypress run
+    - name: Just Linting for now
+      run: npx eslint src
     - name: Updating Domain
       run: echo "Update domain"
