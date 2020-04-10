@@ -20,7 +20,7 @@ import { getModalContent } from 'data/modalData';
 
 function App() {
 
-  const [ modalIsOpen, setIsOpen ] = React.useState(false)=;
+  const [ modalIsOpen, setIsOpen ] = React.useState(false);
   const [ modalData, setModalData ] = React.useState({});
 
   function openModal(modalName) {
