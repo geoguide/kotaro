@@ -19,5 +19,7 @@ jobs:
       run: npm install
     - name: Just Linting for now
       run: npx eslint src
+    - name: Can I run it
+      run: npm start
     - name: Updating Domain
       run: echo "Update domain"
